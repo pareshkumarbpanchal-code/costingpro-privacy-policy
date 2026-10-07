@@ -1,7 +1,7 @@
 # PRIVACY POLICY FOR COSTINGPRO
 
-**Effective Date:** 19 October 2026  
-**Last Updated:** 19 October 2026  
+**Effective Date:** 7 October 2026
+**Last Updated:** 7 October 2026
 **Publisher:** Pareshkumar Panchal
 
 ---
@@ -58,7 +58,7 @@ CostingPro does not use the information for:
 - **No Developer Server:** We do not operate, host, or maintain any remote backend server, cloud database, or application programming interface (API) that collects or receives data entered into CostingPro.
 - **No Transmission to Publisher:** Stored costing records, customer details, financial margins, and company profiles are not transmitted to Pareshkumar Panchal.
 - **No Tracking SDKs:** CostingPro does not contain any third-party analytics, telemetry, crash-reporting, or advertising software development kits (SDKs).
-- **No User Accounts:** There is no registration, login, password, or account system.
+- **Local Owner Access Protection:** CostingPro uses a local, on-device Owner PIN to protect access to information stored on the device. No cloud account, remote login, or server-side credentials are created or transmitted.
 
 Stored information remains on your device unless you choose to export and share documents externally as described in Section 5.
 
@@ -128,7 +128,7 @@ CostingPro is specialized business-to-business (B2B) software designed for indus
 
 Where applicable under relevant privacy and data-protection laws, individuals may have rights concerning their personal data.
 
-Because CostingPro operates without user accounts or centralized server storage:
+Because CostingPro operates without cloud user accounts or centralized server storage:
 
 - **Access and Portability:** You have direct, continuous access to all your stored records within the Application and can export cost estimates as PDF documents at any time.
 - **Correction:** You can edit company profiles, customer details, rates, and costing records directly within the Application interface.
@@ -151,8 +151,8 @@ You are advised to review this policy periodically for any changes.
 
 If you have questions, feedback, or concerns regarding this Privacy Policy or CostingPro's privacy practices, please contact:
 
-**Publisher Name:** Pareshkumar Panchal  
-**Privacy Contact Email:** pareshkumar.b.panchal@gmail.com  
+**Publisher Name:** Pareshkumar Panchal
+**Privacy Contact Email:** pareshkumar.b.panchal@gmail.com
 **Mailing Address:** Chhani, Vadodara, 391740, Gujarat, India
 
 ---
